@@ -11,8 +11,7 @@
             <img src="https://media.discordapp.net/attachments/822116371134545960/880671764324184084/pop_smoke_chain.gif" style="max-width: 100%;">
         </a>
     </p>
-    <h1 align="center" dir="auto">pop smoke fan</h1>
     <br>
-    <h1 align="center" dir="auto">express#9999 | 791341704694988821</h1>
+    <h1 align="center" dir="auto">alephnull#6435 | 791341704694988821</h1>
 </body>
 </html>
