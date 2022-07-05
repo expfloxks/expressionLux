@@ -1,17 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <p align="center">
-        <a target="_blank" rel="noopener noreferrer" href="https://media.discordapp.net/attachments/822116371134545960/880671764324184084/pop_smoke_chain.gif" style="max-width: 100%;">
-            <img src="https://media.discordapp.net/attachments/822116371134545960/880671764324184084/pop_smoke_chain.gif" style="max-width: 100%;">
-        </a>
-    </p>
-    <br>
-    <h1 align="center" dir="auto">expgz#6435 | 791341704694988821</h1>
-</body>
-</html>
+<p allign="center">
+<img src="https://cdn.discordapp.com/attachments/818180413201711125/831857429611806800/aboutme.png">
+
+<h1 allign="center">c, cpp, py, lua developer</h1>
+<br>
+<h1 align="center">13</h1>
+<br>
+[![Discord Presence](https://lanyard.cnrad.dev/api/791341704694988821)](https://discord.com/users/791341704694988821)
+
