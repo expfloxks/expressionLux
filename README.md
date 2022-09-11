@@ -1,7 +1,6 @@
 
 <img src="https://gpvc.arturio.dev/expressiongz">
 <p align="center">
-<img src="https://maziarrajabi.com/wp-content/uploads/2020/05/about_me.jpg">
 <br>
 <h1 align="center">c, cpp, py, lua developer</h1>
 <br>
