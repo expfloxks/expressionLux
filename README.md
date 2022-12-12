@@ -2,6 +2,8 @@
 <img src="https://gpvc.arturio.dev/expressiongz">
 <p align="center">
 <br>
+<img src="https://media.discordapp.net/attachments/1044764388546068510/1051935933836050482/Signature_4.png">
+<br>
 <h1 align="center">C++</h1>
 <br>
 <h1 align="center">x64 | x86 Reverse Engineer</h1>
